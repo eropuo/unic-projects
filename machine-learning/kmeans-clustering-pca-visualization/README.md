@@ -3,4 +3,4 @@ This project evaluates the performance of KMeans clustering on multi-class data 
 
 ## Datasets
 
-- This project utilize dataset "[df_file.csv]" sourced from [Kaggle]([https://www.kaggle.com](https://www.kaggle.com/datasets/tanishqdublish/text-classification-documentation?resource=download)).
+- This project utilize dataset ["df_file.csv"](https://www.kaggle.com/datasets/tanishqdublish/text-classification-documentation?resource=download) sourced from [Kaggle](https://www.kaggle.com/).
