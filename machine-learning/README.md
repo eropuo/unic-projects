@@ -1,1 +1,2 @@
-
+# Machine Learning Projects
+This subfolder contains projects and assignments related to machine learning concepts and techniques. It includes practical implementations of algorithms such as KMeans clustering, as well as dimensionality reduction methods like PCA. Each project demonstrates key aspects of machine learning through code, visualization, and performance evaluation, with detailed analysis of model behavior on various datasets.
